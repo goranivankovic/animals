@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#ime::after{
+    content:' ';
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: red;
+    transform: rotate(30deg);
+    margin-left: 5px;
+
+}
+
+
+
+@media  (max-width: 768px) { 
+    .jedan{
+        margin-bottom: 20px;
+    }
+
+}
