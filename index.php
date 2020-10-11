@@ -75,9 +75,9 @@
             Lions are famous for their loud roar which can be heard up to 5 miles away. <br>
             They can make such a loud roar because the cartilage in their throats has turned into bone.<br>
             They tend to roar more at night.<br>
-            The lion is taller than the tiger, but doesn't weigh as much.
-            The lion's main competitor for prey in Africa is the spotted hyena.
-            Even though the female lions do the hunting, the male lion often gets to eat first.
+            The lion is taller than the tiger, but doesn't weigh as much.<br>
+            The lion's main competitor for prey in Africa is the spotted hyena.<br>
+            Even though the female lions do the hunting, the male lion often gets to eat first.<br>
             They are excellent swimmers.
             Lions will live about 15 years in the wild.
 
